@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Part 1. Foundations of Data Systems/2. Data Models and Query Languages.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Part 1. Foundations of Data Systems/2. Data Models and Query Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Part 1. Foundations of Data Systems/2. Data Models and Query Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Part 1. Foundations of Data Systems/2. Data Models and Query Languages.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,9 +156,10 @@
   },
   "active": "351067f3319f73c0",
   "lastOpenFiles": [
-    "Chapter 1. Foundations of Data Systems/1.1 Reliable, Scalable, and Maintainable Applications.md",
+    "Part 1. Foundations of Data Systems/1. Reliable, Scalable, and Maintainable Applications.md",
+    "Part 1. Foundations of Data Systems/2. Data Models and Query Languages.md",
     "README.md",
     "Chapter 1. Foundations of Data Systems/Reliable, Scalable, and Maintainable Applications.md",
-    "Chapter 1. Foundations of Data Systems"
+    "Part 1. Foundations of Data Systems"
   ]
 }
